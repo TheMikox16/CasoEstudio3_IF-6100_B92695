@@ -13,6 +13,8 @@ namespace EnrolmentSystem_BEHS
         protected void Page_Load(object sender, EventArgs e)
         {
 
+
+	    //Modificacion de Feature2
             LogicaGeneral logica = new LogicaGeneral();
 
             public string TittleDate()
