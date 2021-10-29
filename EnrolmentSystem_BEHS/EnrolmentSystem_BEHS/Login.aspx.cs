@@ -12,10 +12,10 @@ namespace EnrolmentSystem_BEHS
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-	    //modificacion de develop
+	    //modificacion de Hotfix
             LogicaGeneral logica = new LogicaGeneral();
 	
-		//Modificacion feature1
+		
             public string TittleDate()
             {
 
